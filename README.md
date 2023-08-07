@@ -1,6 +1,5 @@
 # SpaceX-Falcon-9-first-stage-Landing-Prediction
 Data-Science-Certification-Capstone
-# SpaceX Falcon 9 First Stage Landing Prediction Project
 
 ![SpaceX Falcon 9](https://www.spacex.com/static/images/ogimage.jpg)
 
